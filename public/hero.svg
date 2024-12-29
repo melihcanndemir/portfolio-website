@@ -1,0 +1,30 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="200" cy="200" r="200" fill="#E5E7EB"/>
+  
+  <!-- Head -->
+  <circle cx="200" cy="150" r="80" fill="#F3D19C"/>
+  
+  <!-- Eyes -->
+  <circle cx="170" cy="140" r="10" fill="#2C3E50"/>
+  <circle cx="230" cy="140" r="10" fill="#2C3E50"/>
+  
+  <!-- Smile -->
+  <path d="M160 170 Q200 200 240 170" stroke="#2C3E50" stroke-width="5" fill="none"/>
+  
+  <!-- Hair -->
+  <path d="M120 120 Q200 50 280 120" stroke="#2C3E50" stroke-width="40" fill="none"/>
+  
+  <!-- Neck -->
+  <rect x="180" y="220" width="40" height="30" fill="#F3D19C"/>
+  
+  <!-- Shirt -->
+  <path d="M140 250 L260 250 L300 400 L100 400 Z" fill="#3B82F6"/>
+  
+  <!-- Laptop -->
+  <rect x="150" y="300" width="100" height="60" fill="#2C3E50"/>
+  <rect x="145" y="350" width="110" height="10" fill="#2C3E50"/>
+  
+  <!-- Code Symbol -->
+  <text x="180" y="340" fill="#ffffff" font-family="monospace" font-size="20">&lt;/&gt;</text>
+</svg>

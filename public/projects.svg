@@ -1,0 +1,31 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- E-commerce Project -->
+  <g transform="translate(0,0)">
+    <rect x="10" y="10" width="240" height="180" fill="#F3F4F6" rx="10"/>
+    <rect x="30" y="30" width="100" height="100" fill="#E5E7EB" rx="5"/>
+    <rect x="140" y="30" width="80" height="20" fill="#E5E7EB" rx="3"/>
+    <rect x="140" y="60" width="60" height="20" fill="#E5E7EB" rx="3"/>
+    <rect x="30" y="140" width="190" height="30" fill="#3B82F6" rx="5"/>
+  </g>
+  
+  <!-- Task Management Project -->
+  <g transform="translate(280,0)">
+    <rect x="10" y="10" width="240" height="180" fill="#F3F4F6" rx="10"/>
+    <rect x="30" y="30" width="200" height="30" fill="#E5E7EB" rx="5"/>
+    <rect x="30" y="70" width="200" height="30" fill="#E5E7EB" rx="5"/>
+    <rect x="30" y="110" width="200" height="30" fill="#E5E7EB" rx="5"/>
+    <circle cx="210" cy="45" r="10" fill="#10B981"/>
+    <circle cx="210" cy="85" r="10" fill="#F59E0B"/>
+    <circle cx="210" cy="125" r="10" fill="#EF4444"/>
+  </g>
+  
+  <!-- Blog Platform Project -->
+  <g transform="translate(560,0)">
+    <rect x="10" y="10" width="240" height="180" fill="#F3F4F6" rx="10"/>
+    <rect x="30" y="30" width="200" height="40" fill="#E5E7EB" rx="5"/>
+    <rect x="30" y="80" width="150" height="10" fill="#E5E7EB" rx="2"/>
+    <rect x="30" y="100" width="180" height="10" fill="#E5E7EB" rx="2"/>
+    <rect x="30" y="120" width="160" height="10" fill="#E5E7EB" rx="2"/>
+    <rect x="30" y="150" width="80" height="25" fill="#3B82F6" rx="5"/>
+  </g>
+</svg>

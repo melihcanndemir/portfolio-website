@@ -1,0 +1,20 @@
+<!-- grid.svg -->
+<svg
+  width="100"
+  height="100"
+  viewBox="0 0 32 32"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <!-- patternUnits="userSpaceOnUse" ile tanımlanan alan kadar deseni tekrar et -->
+    <!-- width/height değerlerini değiştirerek ızgara yoğunluğunu artırıp/azaltabilirsiniz -->
+    <pattern id="grid" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
+      <!-- Satırlar ve sütunlar için çizgiler -->
+      <path d="M 8 0 L 0 0 0 8" fill="none" stroke="#ccc" stroke-width="0.5" />
+    </pattern>
+  </defs>
+
+  <!-- Desenin, SVG’nin tüm alanını kaplaması için kullanıyoruz -->
+  <rect width="100%" height="100%" fill="url(#grid)" />
+</svg>
